@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="git_banniere.png" width="100%" />
+</p>
 # 👋 Hi, I'm JEMAIZ
 
 ## AI Systems Architect  
