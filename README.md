@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git_ban2.png" alt="JEMAIZ AI Architect Banner" width="100%">
+  <img src="git_ban3_gem.png" alt="JEMAIZ AI Architect Banner" width="100%">
 </p>
 # 👋 Hi, I'm JEMAIZ
 
