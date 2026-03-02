@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git_banniere.png" width="100%" />
+  <img src="git_banniere.png" alt="AI Systems Architect Banner" />
 </p>
 # 👋 Hi, I'm JEMAIZ
 
