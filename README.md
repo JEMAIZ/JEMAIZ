@@ -132,9 +132,8 @@ If your organization is deploying LLM systems and needs:
 • Retrieval performance improvement  
 • Secure production deployment  
 • Cost control and scalability  
+Book DEMO -> https://calendly.com/jemai/demo-ia-esn-15min
 
-Let’s build systems that last beyond prototypes.
-[BOOK DEMO → https://calendly.com/jemai/demo-ia-esn-15min
 ---
 
 > AI is easy to demo.  
