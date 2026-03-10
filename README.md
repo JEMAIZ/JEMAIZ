@@ -134,7 +134,7 @@ If your organization is deploying LLM systems and needs:
 • Cost control and scalability  
 
 Let’s build systems that last beyond prototypes.
-
+[BOOK DEMO → https://calendly.com/jemai/demo-ia-esn-15min
 ---
 
 > AI is easy to demo.  
