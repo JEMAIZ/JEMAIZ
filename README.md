@@ -1,6 +1,6 @@
 Zied Jemai — Architecte Data & IA · Toulouse
 
-20 ans à structurer la donnée pour qu'elle soit exploitable : entrepôts de données et couches sémantiques en BI, gouvernance et qualité, et aujourd'hui bases de connaissances, RAG et LLM — avec une attention particulière à leur évaluation et à leur sécurisation.
+20 ans à structurer la donnée pour qu'elle soit exploitable : entrepôts de données et couches sémantiques en BI, gouvernance et qualité, et aujourd'hui bases de connaissances, RAG et LLM  avec une attention particulière à leur évaluation et à leur sécurisation.
 
 Mentor et évaluateur de projets ML / IA chez OpenClassrooms.
 
