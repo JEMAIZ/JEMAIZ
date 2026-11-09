@@ -1,9 +1,6 @@
 <p align="center">
   <img src="git_ban3_gem.png" alt="JEMAIZ AI Architect Banner" width="100%">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zjemai/zjemai/main/JEMAIZ_AUTHORITY_BANNER.png" alt="JEMAIZ AI Systems Architect Banner" width="100%">
-</p>
 
 Zied Jemai — Architecte Data & IA · Toulouse
 
